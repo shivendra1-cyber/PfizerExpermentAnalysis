@@ -35,7 +35,7 @@ Thank you for visiting this repository, and we hope you find it valuable for you
 - The primary purpose of this project is to conduct an exploratory data analysis (EDA) of the Pfizer vaccine experiment dataset to gain insights into the vaccine's effectiveness. It involves identifying trends, patterns, and correlations within the data and creating interactive dashboards using Tableau for visualizing these insights.
 
 ### 2. How can I access the dataset used in the analysis?
-- You can access the dataset used in this analysis by [providing a link to where the dataset is hosted](insert_link_here). Please note that the dataset may have specific usage permissions or licenses, so make sure to review and adhere to those terms.
+- You can access the dataset used in this analysis by [providing a link to where the dataset is hosted](https://drive.google.com/uc?id=173A59xh2mnpmljCCB9bhC4C5eP2IS6qZ). Please note that the dataset may have specific usage permissions or licenses, so make sure to review and adhere to those terms.
 
 ### 3. What tools and technologies are used in this project?
 - This project leverages several tools and technologies, including Python for data analysis, Pandas for data manipulation, Matplotlib and Seaborn for data visualization, Tableau for dashboard creation, and various Python libraries for statistical analysis.
